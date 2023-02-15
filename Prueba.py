@@ -1,0 +1,3 @@
+#Script
+
+print("Hola mundo!")
